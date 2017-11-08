@@ -1,0 +1,38 @@
+#ljubo-music-main {
+    width: 125px;
+    line-height: 1px;
+}
+#ljubo-music-play, #ljubo-music-pause, #ljubo-music-next ,#ljubo-music-prev {
+    float: left;
+    width: 33%;
+    height: 20px;
+    text-align: center;
+    font-size: 15px;
+}
+#l-m-title {
+    padding: 5px 0 5px 0;
+    text-align: center;
+    width: 100%;
+    height: 15px;
+    font-size: 12px;
+}
+.l-m-button-w {
+    padding: 5px 0 10px 0;
+    /* float: left; */
+    text-align: center;
+    width: 100%;
+    height: 15px;
+}
+.l-m-progress {
+    /* float: left; */
+    width: 100%;
+    height: 5px;
+    background: #31718F;
+}
+.l-m-progress-i {
+    /* float: left; */
+    width: 0%;
+    height: 5px;
+    background: #fff;
+
+}

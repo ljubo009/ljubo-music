@@ -1,0 +1,19 @@
+{
+  "name": "ljubo-music",
+  "version": "1.0.0",
+  "description": "music player",
+  "main": "ljubo-music.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ljubomir Susnja",
+  "license": "ISC",
+  "keywords": [
+    "music",
+    "player",
+    "songs"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
